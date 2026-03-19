@@ -1,4 +1,4 @@
-# Emotion Detection Project
+# Final Project - Emotion Detector
 
 ## Overview
 This is a web application that detects emotions in text using IBM Watson Natural Language Understanding (NLU) API. The application analyzes text and returns emotion scores for anger, disgust, fear, joy, and sadness, along with the dominant emotion.
